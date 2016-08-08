@@ -1,0 +1,36 @@
+_repo: A-Selection-from-the-Comedies-of-Marivaux_12504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marivaux, Pierre Carlet de Chamblain de
+    alias: Carlet, Pierre
+    birthdate: 1688
+    deathdate: 1763
+    gutenberg_agent_id: '4399'
+    url: http://www.gutenberg.org/2009/agents/4399
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_de_Marivaux
+  editor:
+    agent_name: Olmsted, Everett Ward
+    birthdate: 1869
+    gutenberg_agent_id: '4568'
+    url: http://www.gutenberg.org/2009/agents/4568
+description: Includes introduction and notes in English
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12504'
+language:
+- en
+- fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Introduction -- Chronology -- Bibliography -- Le jeu de l'amour et
+  du hasard -- Le legs -- Les fausses confidences -- Notes.
+title: A Selection from the Comedies of Marivaux
+url: http://www.gutenberg.org/ebooks/12504
