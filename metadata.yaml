@@ -1,5 +1,8 @@
 _repo: A-Selection-from-the-Comedies-of-Marivaux_12504
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marivaux, Pierre Carlet de Chamblain de
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '4568'
     url: http://www.gutenberg.org/2009/agents/4568
 description: Includes introduction and notes in English
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12504#A-Selection-from-the-Comedies-of-Marivaux
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
